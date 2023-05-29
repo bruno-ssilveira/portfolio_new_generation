@@ -202,10 +202,13 @@ body{
 
     /* inicio da pág. sobre mim */
 
+
+
     .conteudo {
         display: flex;
         flex-direction: column;
         width: auto;
+        height: auto;
         background-color: #2b2b2b;
     }
 
